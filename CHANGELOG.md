@@ -1,5 +1,7 @@
 # Changelog
 
+## 1.1.0 - 17-09-2024
+
 - Remove EOL Rubies: < 3.1 are no longer supported (use an earlier version of the gem if needed)
 
 ## 1.0.2 - 17-06-2024
